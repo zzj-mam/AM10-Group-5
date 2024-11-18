@@ -1,23 +1,16 @@
-hello
+WELCOME TO OUR WORK!
 
-# am10.mam2024
-
-Code and datafiles used in the AM10 course
+# Group 5 - New York Airbnb
 
 # Final Group Project Assignment
 
 - Create a new public repo for your final group project and initialize it with a "readme" file. 
-- Edit the readme.md file to be a short, one-page descrtiption of what your final project is about
-- **Add a row** in the table below with your study information, using the first row as a template
-    - **commit** your changes and submit **pull** request   
-            - write a **descriptive** commit message (e.g. "added Group X to class table")  
-            - click green button "Propose file change" & **start pull request**
-    - make sure the link works (e.g., wrap url in "<" and ">" to activate link on actual website)  
+- Edit the readme.md file to be a short, one-page descrtiption of what your final project is about.
 <br>
 
-# Class GitHub Table with all final projects
+# File Description
 
-| Study Group   | SG Members           |Github ID                      |Github Repo for final project        | URL address for final project       |Date Added     |  
-|:--------------|:---------------------|:------------------------------------------------------|:-----------------------|:-------------------------------------|:-----------------------| 
-| 00     |Member x, member y |kostis-christodoulou |<https://github.com/>|<N/A>     | 2023-11-01 |
-| 01     |Member x, member y |kostis-christodoulou |<https://github.com/>|<N/A>     | 2023-11-01 |
+| File No.| File Name | File Type |File Function|  
+|:--------------|:--------------------|:-------------------------------------|:-----------------------| 
+| 01 | xxx| R | xxxxxxxxxxxxxxxxxxxxxxx |
+| 02 | xxx| Python | xxxxxxxxxxxxxxxxxxxxxxx |
